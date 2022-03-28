@@ -19,13 +19,13 @@ export default class NewClass extends cc.Component {
     start () {
         cc.director.preloadScene("Fase01");
         
-        this.node.on('touchdown', function(event){
+        this.node.on('touchstart', function(event){
            cc.director.loadScene("Fase01");
         });
 
-        this.node.on('mousedown', function(event){
-            cc.director.loadScene("Fase01");
-         });
+        // this.node.on('mousedown', function(event){
+            // cc.director.loadScene("Fase01");
+        // });
     }
 
     // update (dt) {}

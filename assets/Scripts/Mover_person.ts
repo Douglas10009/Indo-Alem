@@ -10,19 +10,28 @@ const {ccclass, property} = cc._decorator;
 @ccclass
 export default class NewClass extends cc.Component {
 
-    @property(cc.Label)
-    label: cc.Label = null;
-
-    @property
-    text: string = 'hello';
+    @property(cc.Sprite)
+    right: cc.Sprite = null
 
     // LIFE-CYCLE CALLBACKS:
+    moveLeft: 0;
+    moveRight:0;
+    movimento :0 // 0: stoped, 1: walking right, -1 : walking left
 
-    // onLoad () {}
+    onLoad () {
+        this.right.node.on('touchstart', function(event){
+            this.movimento = 1; //walking right
+        }, this);
+    }
 
     start () {
 
     }
 
-    // update (dt) {}
+    update (dt) {
+        
+        if (this.movimento == -1) {
+            this.getComponent(cc.RigidBody).linearVelocity = cc.v2( -300,this.node.position.y);
+        }
+    }
 }
