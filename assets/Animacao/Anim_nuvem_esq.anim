@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_nuvem",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.566666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -469.215
+        },
+        {
+          "frame": 4.566666666666666,
+          "value": 722.567
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hori_Plat_3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -639.924,
+            1803.159,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            599.749,
+            1815.525,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
