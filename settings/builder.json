@@ -1,8 +1,11 @@
 {
-  "title": "Indo_Alem_V002",
+  "title": "Indo_Alem_V004",
   "packageName": "org.cocos2d.demo",
   "startScene": "2132f2f7-f45d-4201-94d3-5db390a36b49",
-  "excludeScenes": [],
+  "excludeScenes": [
+    "60ebbcaa-da60-4d94-a6f9-db1905f282de",
+    "5252513b-48bf-465c-ace7-7f9b23d943f9"
+  ],
   "orientation": {
     "landscapeLeft": true,
     "landscapeRight": true,
