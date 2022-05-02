@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "vertical_movimentacao_plataforma",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -621.908,
+            1947.189,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -654.203,
+            2894.515,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

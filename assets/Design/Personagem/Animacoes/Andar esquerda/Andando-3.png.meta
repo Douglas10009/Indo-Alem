@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "406c6a9c-cb09-4b70-86e6-3e8dd303439b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 352,
+  "height": 352,
+  "platformSettings": {},
+  "subMetas": {
+    "Andando-3": {
+      "ver": "1.0.4",
+      "uuid": "c7cb53a3-eac0-4a56-9e3b-b7dbaf2dc8ed",
+      "rawTextureUuid": "406c6a9c-cb09-4b70-86e6-3e8dd303439b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": -93.5,
+      "trimX": 116,
+      "trimY": 187,
+      "width": 104,
+      "height": 165,
+      "rawWidth": 352,
+      "rawHeight": 352,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

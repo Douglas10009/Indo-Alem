@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Vert_Pla_2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 4052.519
+        },
+        {
+          "frame": 0.43333333333333335,
+          "value": 4995.138
+        }
+      ]
+    }
+  },
+  "events": []
+}

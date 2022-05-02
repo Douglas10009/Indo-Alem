@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "person_andar_esq",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e390135d-5005-4eff-b39a-b3657ae8ec6b"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "2af972fb-0333-4c99-a761-511d324c73bd"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "c7cb53a3-eac0-4a56-9e3b-b7dbaf2dc8ed"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5a4e42ba-256d-48a9-ba04-d6e9d1279e3f"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "b9b5142b-5549-4ac1-a65f-a035a9a46ed1"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "be84f0a5-59a5-428e-ba77-1944a99d9420"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
